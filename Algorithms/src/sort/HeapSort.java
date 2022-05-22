@@ -24,6 +24,8 @@ public class HeapSort {
     /**
      * 已知一个几乎有序的数组
      * 几乎有序：若将数组排好序，每个元素移动的距离可以不超过k，并且k相对于数组来说比较小
+     * @param arr
+     * @param k
      */
     public static void sortedArrDistanceLessK(int[] arr, int k){
         // 默认小顶堆
