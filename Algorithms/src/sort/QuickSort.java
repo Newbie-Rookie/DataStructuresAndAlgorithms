@@ -1,5 +1,7 @@
 package sort;
 
+import java.util.PriorityQueue;
+
 public class QuickSort {
     public static void main(String[] args) {
         int[] arr = new int[]{2,6,1,4,7,3};
