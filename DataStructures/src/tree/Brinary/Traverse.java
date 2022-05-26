@@ -4,6 +4,9 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Stack;
 
+/**
+ * 二叉树遍历；先序、中序、后序、层序
+ */
 public class Traverse {
 
     static class TreeNode{
