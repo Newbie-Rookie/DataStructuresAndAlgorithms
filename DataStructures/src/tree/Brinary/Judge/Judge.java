@@ -4,6 +4,9 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Stack;
 
+/**
+ * 判断二叉排序树、完全二叉树、满二叉树
+ */
 public class Judge {
 
     static class TreeNode{

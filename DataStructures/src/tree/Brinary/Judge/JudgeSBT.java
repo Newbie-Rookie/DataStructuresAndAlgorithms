@@ -1,5 +1,8 @@
 package tree.Brinary.Judge;
 
+/**
+ * 树形DP判断二叉排序树
+ */
 public class JudgeSBT {
     static class TreeNode{
         Integer val;
